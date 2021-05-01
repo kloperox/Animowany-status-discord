@@ -1,5 +1,12 @@
-//META{"name":"StatusAnimated","source":"https://raw.githubusercontent.com/kloperox/Animowany-status-discord/main/status-animated.plugin.js","website":"https://github.com/kloperox/Animowany-status-discord","donate":"https://tipply.pl/u/BlackLifeRP"}*//
-
+/**
+ * @name StatusAnimated
+ * @author klopero
+ * @version 0.0.1
+ * @description Animowany status na Discordzie
+ * @website https://github.com/kloperox/Animowany-status-discord
+ * @source https://raw.githubusercontent.com/kloperox/Animowany-status-discord/main/status-animated.plugin.js
+ * @donate https://tipply.pl/u/BlackLifeRP
+ */
 const Editor_Type = {
 	RICH: 0,
 	RAW: 1,
