@@ -1,6 +1,8 @@
 /**
  * @name StatusAnimated
- * @author klopero
+ * @author !!Klopero
+ * @authorId 328256407407296513
+ * @invite kHe2KNzygB
  * @version 0.0.1
  * @description Animowany status na Discordzie
  * @website https://github.com/kloperox/Animowany-status-discord
